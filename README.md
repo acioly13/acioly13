@@ -26,7 +26,7 @@
   <a href="mailto:john.acioly@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/joaopacioly/">
+  <a href="https://www.linkedin.com/in/joaoacioly/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/acioly13">
